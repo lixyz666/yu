@@ -104,8 +104,8 @@ $(function () {
         // 旗下站点
         const xf_site = {
             siteInfo: [
-                 { name: 'ChatGPT', links: 'https://chat.lixuanzer.top/', pic: 'assets/upload/chatgpt.jpg' },
-                { name: '李眩しい沢の博客', links: 'https://blog.lixuanzer.top/', pic: 'assets/upload/blog.jpg' },
+                 { name: 'ChatGPT', links: 'https://chat.lixuanzer.top/', pic: 'assets/upload/chatgpt.png' },
+                { name: '李眩しい沢の博客', links: 'https://blog.lixuanzer.top/', pic: 'assets/upload/blog.png' },
                 { name: '我的个人主页', links: 'https://my.lixuanzer.top/', pic: 'assets/upload/grzy.png' },
                 { name: '中转页', links: 'https://www.lixuanzer.top/', pic: 'assets/upload/zhongzhuan.png' },
             ]
